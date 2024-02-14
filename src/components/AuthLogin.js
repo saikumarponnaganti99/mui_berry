@@ -30,7 +30,7 @@ import useScriptRef from './useScriptRef';
 // assets
 import Visibility from '@mui/icons-material/Visibility';
 import VisibilityOff from '@mui/icons-material/VisibilityOff';
-import Google from './social-google.svg';
+import Google from '../assets/social-google.svg';
 
 // ============================|| FIREBASE - LOGIN ||============================ //
 
