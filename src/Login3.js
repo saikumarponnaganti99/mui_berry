@@ -4,13 +4,11 @@ import { useTheme } from '@mui/material/styles';
 import { Divider, Grid, Stack, Typography, useMediaQuery } from '@mui/material';
 
 // project imports
-import AuthWrapper1 from './AuthWrapper1';
-import AuthCardWrapper from './AuthCardWrapper';
-import AuthLogin from './AuthLogin';
-import Logo from './Logo'
-import AuthFooter from './AuthFooter';
-
-// assets
+import AuthWrapper1 from './components/AuthWrapper1';
+import AuthCardWrapper from './components/AuthCardWrapper';
+import AuthLogin from './components/AuthLogin';
+import Logo from './assets/Logo'
+import AuthFooter from './components/AuthFooter';
 
 // ================================|| AUTH3 - LOGIN ||================================ //
 
